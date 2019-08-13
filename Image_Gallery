@@ -32,6 +32,11 @@ background: #A4A4A4;
 margin: 4px;
 box-sizing: border-box;
 display: inline-block;
+border: 1px solid #666;
+}
+
+.box:hover {
+border: 2px solid #777;
 }
  
 </style>
